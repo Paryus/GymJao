@@ -1,0 +1,29 @@
+#site{
+    font-size: 2rem;
+
+}
+.link{
+    font-size: 0.8rem;
+    
+}
+#sec-1::before{
+  
+    height: 128%;
+    
+
+}
+
+.heading-1{
+    font-size: 2rem;
+}
+.membership{
+    font-size: 0.6rem;
+    width: 180px;
+}
+.sub-heading-1{
+    font-size: 0.6rem;
+}
+.end{
+    margin-top: 108px;
+    font-size: 0.8rem;
+}

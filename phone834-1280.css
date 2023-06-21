@@ -1,0 +1,81 @@
+/* body{
+    background-color: red;
+
+} */
+/* ******************navigation******************* */
+
+
+/* ***************section-1********************* */
+#slogan{
+    font-size: 3rem;
+}
+/* **********************section-2***************** */
+.logo{
+    height: 500px;
+    width: 400px;
+}
+#about{
+    margin-top: 150px;
+}
+.data{
+   
+    margin: 0px 25px;
+   
+    padding: 10px 5px;
+  
+    font-size: 1rem;
+   
+    /* background-color: rgb(205, 187, 187); */
+    border-radius: 10px;
+}
+.allabout{
+    margin-top: 30px;
+}
+.member{
+    
+    margin-top: 20px;
+   
+    
+}
+.subscription{
+    margin: 25px 0px;
+    width: 200px;
+    padding: 5px 0px;
+    color: white;
+    font-size: 0.8rem;
+    background-color: red;
+}
+
+
+/* *********************section-3************************* */
+.heading-2{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 30px;
+    color: rgb(255, 255, 255);
+}
+.sponser{
+    
+    
+    height: 80px;
+    width: 80px;
+    margin: 40px;
+    align-items: center;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+
+/* ************************section-4************************** */
+.phone{
+    font-size: 0.8rem;
+}
+#heading-3{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+i{
+    font-size: 1.2rem;
+}
+.end{
+    font-size: 0.8rem;
+}

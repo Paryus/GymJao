@@ -1,0 +1,92 @@
+/* body{
+    background-color: red;
+
+} */
+/* ******************navigation******************* */
+#navbar{
+    flex-direction: column;
+    align-items: center;
+}
+#site{
+    margin-bottom: 3px;
+}
+.object{
+    margin-top: 0px;
+}
+.link{
+    font-size: 0.8rem;
+}
+/* ***************section-1********************* */
+#slogan{
+    font-size: 3rem;
+}
+/* **********************section-2***************** */
+.logo{
+    height: 400px;
+    width: 350px;
+}
+#about{
+    margin-top: 124px;
+}
+.data{
+   
+    margin: 0px 25px;
+   
+    padding: 10px 5px;
+  
+    font-size: 0.6rem;
+   
+    /* background-color: rgb(205, 187, 187); */
+    border-radius: 10px;
+}
+.allabout{
+    margin-top: 30px;
+}
+.member{
+    
+    margin-top: 0px;
+   
+    
+}
+.subscription{
+    margin: 25px 0px;
+    width: 150px;
+    padding: 5px 0px;
+    color: white;
+    font-size: 0.6rem;
+    background-color: red;
+}
+
+
+/* *********************section-3************************* */
+.heading-2{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 30px;
+    color: rgb(255, 255, 255);
+}
+.sponser{
+    
+    
+    height: 50px;
+    width: 50px;
+    margin: 30px;
+    align-items: center;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+
+/* ************************section-4************************** */
+.phone{
+    font-size: 0.8rem;
+}
+#heading-3{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+i{
+    font-size: 1.2rem;
+}
+.end{
+    font-size: 0.8rem;
+}
